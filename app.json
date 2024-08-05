@@ -1,5 +1,5 @@
 {
-  "name":"ALPHA-MD",
+  "name":"RAMADHAN-MD",
   "description":"Best whatsapp bot developed by keithkeizzah",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐀𝐋𝐏𝐇𝐀-𝐌𝐃",
+      "value":"RAMADHAN-𝐌𝐃",
       "required":false
 
     } ,
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796299159"
+    "value": "256788028745"
   },
     "WARN_COUNT":
   {
